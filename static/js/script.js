@@ -68,8 +68,7 @@ var LANGUAGES = {
             "CREDITS:localization:Korean": "韩国本地化贡献者",
             "CREDITS:localization:Japanese": "日本本地化贡献者",
             "CREDITS:localization:Indonesian": "印度尼西亚本地化贡献者",
-            "CREDITS:inspiration": "灵感来源"
-
+            "CREDITS:inspiration": "灵感来源",
         },
         cardImage: "img/card_cn.jpg"
     }, "zh-tw": {
@@ -78,201 +77,282 @@ var LANGUAGES = {
             "audio/cn/gururu.mp3",
             "audio/cn/转圈圈.mp3",
             "audio/cn/转圈圈咯.mp3",
-            "audio/cn/要坏掉了.mp3"
-        ],
-        texts: {
-            "page-title": "* 黑塔轉圈圈 ✩‧₊˚",
-            "doc-title": "咕嚕咕嚕～",
-            "page-descriptions": "致敬全宇宙超級無敵絕頂聰明黑塔醬的小網站<br>沒錯就是那位惹人愛的<del>很煩的</del>《崩壞：星穹鐵道》角色！",
-            "counter-descriptions": ["黑塔已經咕嚕咕嚕了", "黑塔已經轉了"],
-            "counter-unit": ["次", "次圈圈"],
-            "counter-button": ["* 轉圈圈 ✩‧₊˚", "* 咕嚕咕嚕 ✩‧₊˚"],
-            "access-via-pages": "你目前正在透過 GitHub Pages 存取。至於從中國大陸和其他區域來的使用者，請點擊此處 <a href='https://herta.ft2.ltd/'> 訪問 Netlify 上的鏡像網站</a>。",
-            "access-via-mirror": "你目前正在使用鏡像網站，若是從中國大陸和其他區域來的存取，或多或少會變流暢。請點擊此處 <a href='https://duiqt.github.io/herta_kuru/'> 訪問 GitHub Pages 上的原始網站</a>。",
-            "show-credits-text": "顯示致謝名單",
-            "repository-desc": "GitHub Repo",
-            "show-options-text": "設定",
-            "options-txt-vo-lang": "語音語言",
-            "options-txt-random_speed": "隨機速度",
-            "options-txt-speed": "速度",
-            "options-txt-lang": "介面語言",
-            "dialogs-close": "關閉",
-            "dialogs-credits-title": "開發人員名單",
-            "dialogs_credits_content_text": "排序並無規則",
+      "audio/cn/要坏掉了.mp3",
+    ],
+    texts: {
+      "page-title": "* 黑塔轉圈圈 ✩‧₊˚",
+      "doc-title": "咕嚕咕嚕～",
+      "page-descriptions":
+        "致敬全宇宙超級無敵絕頂聰明黑塔醬的小網站<br>沒錯就是那位惹人愛的<del>很煩的</del>《崩壞：星穹鐵道》角色！",
+      "counter-descriptions": ["黑塔已經咕嚕咕嚕了", "黑塔已經轉了"],
+      "counter-unit": ["次", "次圈圈"],
+      "counter-button": ["* 轉圈圈 ✩‧₊˚", "* 咕嚕咕嚕 ✩‧₊˚"],
+      "access-via-pages":
+        "你目前正在透過 GitHub Pages 存取。至於從中國大陸和其他區域來的使用者，請點擊此處 <a href='https://herta.ft2.ltd/'> 訪問 Netlify 上的鏡像網站</a>。",
+      "access-via-mirror":
+        "你目前正在使用鏡像網站，若是從中國大陸和其他區域來的存取，或多或少會變流暢。請點擊此處 <a href='https://duiqt.github.io/herta_kuru/'> 訪問 GitHub Pages 上的原始網站</a>。",
+      "show-credits-text": "顯示致謝名單",
+      "repository-desc": "GitHub Repo",
+      "show-options-text": "設定",
+      "options-txt-vo-lang": "語音語言",
+      "options-txt-random_speed": "隨機速度",
+      "options-txt-speed": "速度",
+      "options-txt-lang": "介面語言",
+      "dialogs-close": "關閉",
+      "dialogs-credits-title": "開發人員名單",
+      dialogs_credits_content_text: "排序並無規則",
 
-            "CREDITS:main-dev": "主要開發者",
-            "CREDITS:code-contributor": "程式貢獻者",
-            "CREDITS:artist": "藝術家",
-            "CREDITS:localization": "在地化貢獻者",
-            "CREDITS:localization:Korean": "韓國在地化貢獻者",
-            "CREDITS:localization:Japanese": "日本在地化貢獻者",
-            "CREDITS:localization:Indonesian": "印尼在地化貢獻者",
-            "CREDITS:inspiration": "靈感來源"
-        },
-        cardImage: "img/card_en.jpg"
-    }, "ja": {
-        audioList: [
-            "audio/ja/kuruto.mp3",
-            "audio/ja/kuru1.mp3",
-            "audio/ja/kuru2.mp3",
-        ],
-        texts: {
-            "page-title": "ヘルタクルへようこそ~",
-            "doc-title": "クル クル~",
-            "page-descriptions": "このサイトはヘルタのために作られた、 あの崩壊：スターレイルの <del>悩ましい</del> かわいい天才キャラー。",
-            "counter-descriptions": "全世界のクル再生数",
-            "counter-unit": "回",
-            "counter-button": "クル クル~!",
-            "access-via-pages": "今アクセスしてるページはぎGitHubです。中国大陸まだは他の地域のユーサーはNetlifyのミラーに入るために、<a href='https://herta.ft2.ltd/'>ここにクリックして</a>ください。",
-            "access-via-mirror": "おめでとうございます！今はもうミラーサイトを使っています、中国大陸まだは他の地域のアクセス速度が速くなります。サイトのソースを見たいなら、<a href='https://duiqt.github.io/herta_kuru/'>ここにクリックして</a>、GitHubページで見てください。",
-            "show-credits-text": "Show Credits",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Voice-Over Language",
-            "options-txt-random_speed": "ランダム速度",
-            "options-txt-speed": "速度",
-            "options-txt-lang": "Page Language",
-            "dialogs-close": "Close",
-            "dialogs-credits-title": "Credits"
-        },
-        cardImage: "img/card_ja.jpg"
+      "CREDITS:main-dev": "主要開發者",
+      "CREDITS:code-contributor": "程式貢獻者",
+      "CREDITS:artist": "藝術家",
+      "CREDITS:localization": "在地化貢獻者",
+      "CREDITS:localization:Korean": "韓國在地化貢獻者",
+      "CREDITS:localization:Japanese": "日本在地化貢獻者",
+      "CREDITS:localization:Indonesian": "印尼在地化貢獻者",
+      "CREDITS:inspiration": "靈感來源",
     },
-    "kr": {
-        audioList: [
-            // TODO audio random weight
-            "audio/kr/kr_1.mp3",
-            "audio/kr/kr_2.mp3",
-            "audio/kr/kr_3.mp3"
-        ],
-        texts: {
-            "page-title": "빙글빙글 헤르타에 오신걸 환영합니다~",
-            "doc-title": "빙글빙글~",
-            "page-descriptions": "이 웹사이트는 붕괴: 스타레일의 가장 <del>짜증나는</del>귀여운 천재 헤르타를 위해 만들어졌습니다.",
-            "counter-descriptions": "전 세계에서",
-            "counter-unit": "번 빙글빙글",
-            "counter-button": "빙글빙글~!",
-            "access-via-pages": "현재 GitHub Pages를 통해 액세스하고 있습니다. 중국 본토나 일부 지역에 있는 사용자의 경우 <a href='https://herta.ft2.ltd/'>여기를 클릭하여 Netlify의 미러 사이트에 접속하세요</a>.",
-            "access-via-mirror": "축하합니다. 현재 미러 사이트를 통해 접속하고 있습니다. 이 사이트에선 중국 본토 및 일부 지역에서의 액세스 속도가 빨라집니다. <a href='https://duiqt.github.io/herta_kuru/'>여기를 클릭하여 GitHub Pages에 접속하세요</a>.",
-            "show-credits-text": "Show Credits",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Voice-Over Language",
-            "options-txt-random_speed": "무작위 속도",
-            "options-txt-speed": "속도",
-            "options-txt-lang": "Page Language",
-            "dialogs-close": "Close",
-            "dialogs-credits-title": "Credits"
-        },
-        cardImage: "img/card_kr.jpg"
+    cardImage: "img/card_en.jpg",
+  },
+  ja: {
+    audioList: [
+      "audio/ja/kuruto.mp3",
+      "audio/ja/kuru1.mp3",
+      "audio/ja/kuru2.mp3",
+    ],
+    texts: {
+      "page-title": "ヘルタクルへようこそ~",
+      "doc-title": "クル クル~",
+      "page-descriptions":
+        "このサイトはヘルタのために作られた、 あの崩壊：スターレイルの <del>悩ましい</del> かわいい天才キャラー。",
+      "counter-descriptions": "全世界のクル再生数",
+      "counter-unit": "回",
+      "counter-button": "クル クル~!",
+      "access-via-pages":
+        "今アクセスしてるページはぎGitHubです。中国大陸まだは他の地域のユーサーはNetlifyのミラーに入るために、<a href='https://herta.ft2.ltd/'>ここにクリックして</a>ください。",
+      "access-via-mirror":
+        "おめでとうございます！今はもうミラーサイトを使っています、中国大陸まだは他の地域のアクセス速度が速くなります。サイトのソースを見たいなら、<a href='https://duiqt.github.io/herta_kuru/'>ここにクリックして</a>、GitHubページで見てください。",
+      "show-credits-text": "Show Credits",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Voice-Over Language",
+      "options-txt-random_speed": "ランダム速度",
+      "options-txt-speed": "速度",
+      "options-txt-lang": "Page Language",
+      "dialogs-close": "Close",
+      "dialogs-credits-title": "Credits",
     },
-    "id": {
-        audioList: null,
-        texts: {
-            "page-title": "Selamat datang di Herta kuru~",
-            "doc-title": "Kuru Kuru~",
-            "page-descriptions": "Situs web yang dipersembahkan kepada Herta, sang Karakter Jenius <del>ngeselin</del> dari Honkai: Star Rail.",
-            "counter-descriptions": ["Kuru nya telah dipencet sebanyak", "Herta telah ter-kuru-kan sebanyak"],
-            "counter-unit": "kali",
-            "counter-button": ["Pencet kuru nya~!", "Kuru kuru~!"],
-            "access-via-pages": "Kamu saat ini sedang mengakses melalui Laman GitHub. Untuk pengguna berdomisili di Tiongkok (Daratan) dan wilayah lainnya, silakan klik <a href='https://herta.ft2.ltd/'> di sini untuk mengakses mirror nya di Netlify</a>. ",
-            "access-via-mirror": "Selamat! Kamu sedang menggunakan situs mirror, yang mana seharusnya mempercepat akses untuk wilayah sekitar Tiongkok (daratan) dan wilayah lainnya . Silakan klik <a href='https://duiqt.github.io/herta_kuru/'> di sini untuk mengunjungi situs sumbernya pada Laman Github</a>.",
-            "show-credits-text": "Tampilkan Credit",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Voice-Over Language",
-            "options-txt-random_speed": "Kecepatan acak",
-            "options-txt-speed": "kecepatan",
-            "options-txt-lang": "Page Language",
-            "dialogs-close": "Close",
-            "dialogs-credits-title": "Credits"
-        },
-        cardImage: "img/card_id.jpg"
+    cardImage: "img/card_ja.jpg",
+  },
+  kr: {
+    audioList: [
+      // TODO audio random weight
+      "audio/kr/kr_1.mp3",
+      "audio/kr/kr_2.mp3",
+      "audio/kr/kr_3.mp3",
+    ],
+    texts: {
+      "page-title": "빙글빙글 헤르타에 오신걸 환영합니다~",
+      "doc-title": "빙글빙글~",
+      "page-descriptions":
+        "이 웹사이트는 붕괴: 스타레일의 가장 <del>짜증나는</del>귀여운 천재 헤르타를 위해 만들어졌습니다.",
+      "counter-descriptions": "전 세계에서",
+      "counter-unit": "번 빙글빙글",
+      "counter-button": "빙글빙글~!",
+      "access-via-pages":
+        "현재 GitHub Pages를 통해 액세스하고 있습니다. 중국 본토나 일부 지역에 있는 사용자의 경우 <a href='https://herta.ft2.ltd/'>여기를 클릭하여 Netlify의 미러 사이트에 접속하세요</a>.",
+      "access-via-mirror":
+        "축하합니다. 현재 미러 사이트를 통해 접속하고 있습니다. 이 사이트에선 중국 본토 및 일부 지역에서의 액세스 속도가 빨라집니다. <a href='https://duiqt.github.io/herta_kuru/'>여기를 클릭하여 GitHub Pages에 접속하세요</a>.",
+      "show-credits-text": "Show Credits",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Voice-Over Language",
+      "options-txt-random_speed": "무작위 속도",
+      "options-txt-speed": "속도",
+      "options-txt-lang": "Page Language",
+      "dialogs-close": "Close",
+      "dialogs-credits-title": "Credits",
     },
-    "pt": {
-        audioList: null,
-        texts: {
-            "page-title": "Bem-vindo ao kuru~ da herta",
-            "doc-title": "Kuru Kuru~",
-            "page-descriptions": "O site para a Herta, a personagem mais <del>irritante</del> fofa e gênia do Honkai: Star Rail que existe.",
-            "counter-descriptions": ["O kuru~ já  foi clicado", "Herta ja falou kuru~ "],
-            "counter-unit": "vezes",
-            "counter-button": "Kuru kuru~!",
-            "access-via-pages": "No momento, você está acessando por meio do GitHub Pages. Para usuários na China (continente) ou algumas regiões, clique <a href='https://herta.ft2.ltd/'>aqui pode acessar via Netlify</a>. ",
-            "access-via-mirror": "Parabéns! Você está usando um site espelho, o que deve acelerar o acesso na China (continente) e algumas regiões. Clique aqui para <a href='https://duiqt.github.io/herta_kuru/'>visitar o site de origem no GitHub Pages</a>.",
-            "show-credits-text": "Mostrar Créditos",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Idioma da voz",
-            "options-txt-random_speed": "Velocidade aleatória",
-            "options-txt-speed": "Velocidade",
-            "options-txt-lang": "Idioma da página",
-            "dialogs-close": "Fechar",
-            "dialogs-credits-title": "Créditos"
-        },
-        cardImage: "img/card_pt.jpg"
-          }, "tr": {
-        audioList: null,
-        texts: {
-            "page-title": "Herta Kuru'ya Hoşgeldiniz~",
-            "doc-title": "Kuru Kuru~",
-            "page-descriptions": "<del>Sinir bozucu</del> En sevimli, dahi Honkai: Star Rail karakteri Herta'nın web sitesi.",
-            "counter-descriptions": ["Kuru kuru ya bu kadar basıldı.", "Herta tarafından bu kadar kuru kurulandın"],
-            "counter-unit": "Kere",
-            "counter-button": ["Daha Fazla kuru~!", "Kuru kuru~!"],
-            "access-via-pages": "You're currently accessing via GitHub Pages. For users in China (Mainland) or some other regions, click <a href='https://herta.ft2.ltd/'>here to access the mirror on Netlify</a>. ",
-            "access-via-mirror": "Congratulations! You are using a mirror site, which should speed up access within China (Mainland) and some regions. Click here to <a href='https://duiqt.github.io/herta_kuru/'>visit the source site on GitHub Pages</a>.",
-            "show-credits-text": "Katkıda bulunanları göster",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Ses dili",
-            "options-txt-random_speed": "Rastgele hız",
-            "options-txt-speed": "Hızı",
-            "options-txt-lang": "Sayfa Dili",
-            "dialogs-close": "Kapat",
-            "dialogs-credits-title": "Katkıda bulunanlar",
-
-            "CREDITS:main-dev": "Ana Geliştirici",
-            "CREDITS:code-contributor": "Koda Katkıda Bulunan ",
-            "CREDITS:artist": "Sanatçı",
-            "CREDITS:localization": "Yerelleştirmede Katkıda Bulunan",
-            "CREDITS:localization:Korean": "Korece Yerelleştirmede Katkıda Bulunanlar",
-            "CREDITS:localization:Japanese": "Japonca Yerelleştirmede Katkıda Bulunan",
-            "CREDITS:localization:Indonesian": "Endonezce Yerelleştirmede Katkıda Bulunan",
-            "CREDITS:inspiration": "İlham Alınan"
-        },
-        cardImage: "img/card_en.jpg"
-    }, "vi": {
-        audioList: null,
-        texts: {
-            "page-title": "Chào mừng tới Herta kuru~",
-            "doc-title": "Kuru Kuru~",
-            "page-descriptions": "Trang web dành cho Herta, một thiên tài <del>phiền phức</del> dễ thương nhất trong Honkai: Star Rail.",
-            "counter-descriptions": ["Kuru~ này đã quay", "Herta đã quay"],
-            "counter-unit": "lần",
-            "counter-button": ["Quay kuru~!", "Kuru kuru~!"],
-            "access-via-pages": "Hiện bạn đang truy cập qua GitHub Pages. Với người dùng tại Trung Quốc Đại Lục hoặc một số khu vực khác, Click tại <a href='https://herta.ft2.ltd/'>đây để truy cập bản sao trên Netlify</a>. ",
-            "access-via-mirror": "Chúc mừng! bạn đang sử dụng bản sao, tăng tốc độ truy cập trong Trung Quốc Đại Lục và một số khu vực khác. Click tại <a href='https://duiqt.github.io/herta_kuru/'>đây để ghé thăm trang nguồn tại GitHub Pages</a>.",
-            "show-credits-text": "Hiện credits",
-            "show-options-text": "Cài đặt",
-            "repository-desc": "GitHub Repo",
-            "options-txt-vo-lang": "Ngôn ngữ lồng tiếng",
-            "options-txt-random_speed": "Tốc độ ngẫu nhiên",
-            "options-txt-speed": "Tốc độ",
-            "options-txt-lang": "Ngôn ngữ",
-            "dialogs-close": "Đóng",
-            "dialogs-credits-title": "Những người thực hiện",
-
-            "CREDITS:main-dev": "Developer chính",
-            "CREDITS:code-contributor": "Đóng góp code",
-            "CREDITS:artist": "Họa sĩ",
-            "CREDITS:localization": "Đóng góp bản dịch",
-            "CREDITS:localization:Korean": "Đóng góp bản dịch (Tiếng Hàn)",
-            "CREDITS:localization:Japanese": "Đóng góp bản dịch (Tiếng Nhật)",
-            "CREDITS:localization:Indonesian": "Đóng góp bản dịch (Tiếng Indonesia)",
-            "CREDITS:inspiration": "Ý tưởng"
-        },
-        cardImage: "img/card_en.jpg"
+    cardImage: "img/card_kr.jpg",
+  },
+  id: {
+    audioList: null,
+    texts: {
+      "page-title": "Selamat datang di Herta kuru~",
+      "doc-title": "Kuru Kuru~",
+      "page-descriptions":
+        "Situs web yang dipersembahkan kepada Herta, sang Karakter Jenius <del>ngeselin</del> dari Honkai: Star Rail.",
+      "counter-descriptions": [
+        "Kuru nya telah dipencet sebanyak",
+        "Herta telah ter-kuru-kan sebanyak",
+      ],
+      "counter-unit": "kali",
+      "counter-button": ["Pencet kuru nya~!", "Kuru kuru~!"],
+      "access-via-pages":
+        "Kamu saat ini sedang mengakses melalui Laman GitHub. Untuk pengguna berdomisili di Tiongkok (Daratan) dan wilayah lainnya, silakan klik <a href='https://herta.ft2.ltd/'> di sini untuk mengakses mirror nya di Netlify</a>. ",
+      "access-via-mirror":
+        "Selamat! Kamu sedang menggunakan situs mirror, yang mana seharusnya mempercepat akses untuk wilayah sekitar Tiongkok (daratan) dan wilayah lainnya . Silakan klik <a href='https://duiqt.github.io/herta_kuru/'> di sini untuk mengunjungi situs sumbernya pada Laman Github</a>.",
+      "show-credits-text": "Tampilkan Credit",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Voice-Over Language",
+      "options-txt-random_speed": "Kecepatan acak",
+      "options-txt-speed": "kecepatan",
+      "options-txt-lang": "Page Language",
+      "dialogs-close": "Close",
+      "dialogs-credits-title": "Credits",
     },
-};
+    cardImage: "img/card_id.jpg",
+  },
+  pt: {
+    audioList: null,
+    texts: {
+      "page-title": "Bem-vindo ao kuru~ da herta",
+      "doc-title": "Kuru Kuru~",
+      "page-descriptions":
+        "O site para a Herta, a personagem mais <del>irritante</del> fofa e gênia do Honkai: Star Rail que existe.",
+      "counter-descriptions": [
+        "O kuru~ já  foi clicado",
+        "Herta ja falou kuru~ ",
+      ],
+      "counter-unit": "vezes",
+      "counter-button": "Kuru kuru~!",
+      "access-via-pages":
+        "No momento, você está acessando por meio do GitHub Pages. Para usuários na China (continente) ou algumas regiões, clique <a href='https://herta.ft2.ltd/'>aqui pode acessar via Netlify</a>. ",
+      "access-via-mirror":
+        "Parabéns! Você está usando um site espelho, o que deve acelerar o acesso na China (continente) e algumas regiões. Clique aqui para <a href='https://duiqt.github.io/herta_kuru/'>visitar o site de origem no GitHub Pages</a>.",
+      "show-credits-text": "Mostrar Créditos",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Idioma da voz",
+      "options-txt-random_speed": "Velocidade aleatória",
+      "options-txt-speed": "Velocidade",
+      "options-txt-lang": "Idioma da página",
+      "dialogs-close": "Fechar",
+      "dialogs-credits-title": "Créditos",
+    },
+    cardImage: "img/card_pt.jpg",
+  },
+  tr: {
+    audioList: null,
+    texts: {
+      "page-title": "Herta Kuru'ya Hoşgeldiniz~",
+      "doc-title": "Kuru Kuru~",
+      "page-descriptions":
+        "<del>Sinir bozucu</del> En sevimli, dahi Honkai: Star Rail karakteri Herta'nın web sitesi.",
+      "counter-descriptions": [
+        "Kuru kuru ya bu kadar basıldı.",
+        "Herta tarafından bu kadar kuru kurulandın",
+      ],
+      "counter-unit": "Kere",
+      "counter-button": ["Daha Fazla kuru~!", "Kuru kuru~!"],
+      "access-via-pages":
+        "You're currently accessing via GitHub Pages. For users in China (Mainland) or some other regions, click <a href='https://herta.ft2.ltd/'>here to access the mirror on Netlify</a>. ",
+      "access-via-mirror":
+        "Congratulations! You are using a mirror site, which should speed up access within China (Mainland) and some regions. Click here to <a href='https://duiqt.github.io/herta_kuru/'>visit the source site on GitHub Pages</a>.",
+      "show-credits-text": "Katkıda bulunanları göster",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Ses dili",
+      "options-txt-random_speed": "Rastgele hız",
+      "options-txt-speed": "Hızı",
+      "options-txt-lang": "Sayfa Dili",
+      "dialogs-close": "Kapat",
+      "dialogs-credits-title": "Katkıda bulunanlar",
 
-const progress = [0, 1];
+      "CREDITS:main-dev": "Ana Geliştirici",
+      "CREDITS:code-contributor": "Koda Katkıda Bulunan ",
+      "CREDITS:artist": "Sanatçı",
+      "CREDITS:localization": "Yerelleştirmede Katkıda Bulunan",
+      "CREDITS:localization:Korean":
+        "Korece Yerelleştirmede Katkıda Bulunanlar",
+      "CREDITS:localization:Japanese":
+        "Japonca Yerelleştirmede Katkıda Bulunan",
+      "CREDITS:localization:Indonesian":
+        "Endonezce Yerelleştirmede Katkıda Bulunan",
+      "CREDITS:inspiration": "İlham Alınan",
+    },
+    cardImage: "img/card_en.jpg",
+  },
+  vi: {
+    audioList: null,
+    texts: {
+      "page-title": "Chào mừng tới Herta kuru~",
+      "doc-title": "Kuru Kuru~",
+      "page-descriptions":
+        "Trang web dành cho Herta, một thiên tài <del>phiền phức</del> dễ thương nhất trong Honkai: Star Rail.",
+      "counter-descriptions": ["Kuru~ này đã quay", "Herta đã quay"],
+      "counter-unit": "lần",
+      "counter-button": ["Quay kuru~!", "Kuru kuru~!"],
+      "access-via-pages":
+        "Hiện bạn đang truy cập qua GitHub Pages. Với người dùng tại Trung Quốc Đại Lục hoặc một số khu vực khác, Click tại <a href='https://herta.ft2.ltd/'>đây để truy cập bản sao trên Netlify</a>. ",
+      "access-via-mirror":
+        "Chúc mừng! bạn đang sử dụng bản sao, tăng tốc độ truy cập trong Trung Quốc Đại Lục và một số khu vực khác. Click tại <a href='https://duiqt.github.io/herta_kuru/'>đây để ghé thăm trang nguồn tại GitHub Pages</a>.",
+      "show-credits-text": "Hiện credits",
+      "show-options-text": "Cài đặt",
+      "repository-desc": "GitHub Repo",
+      "options-txt-vo-lang": "Ngôn ngữ lồng tiếng",
+      "options-txt-random_speed": "Tốc độ ngẫu nhiên",
+      "options-txt-speed": "Tốc độ",
+      "options-txt-lang": "Ngôn ngữ",
+      "dialogs-close": "Đóng",
+      "dialogs-credits-title": "Những người thực hiện",
 
-(() => {
+      "CREDITS:main-dev": "Developer chính",
+      "CREDITS:code-contributor": "Đóng góp code",
+      "CREDITS:artist": "Họa sĩ",
+      "CREDITS:localization": "Đóng góp bản dịch",
+      "CREDITS:localization:Korean": "Đóng góp bản dịch (Tiếng Hàn)",
+      "CREDITS:localization:Japanese": "Đóng góp bản dịch (Tiếng Nhật)",
+      "CREDITS:localization:Indonesian": "Đóng góp bản dịch (Tiếng Indonesia)",
+      "CREDITS:inspiration": "Ý tưởng",
+    },
+    cardImage: "img/card_en.jpg",
+  },
+  es: {
+    audioList: [
+      "audio/ja/kuruto.mp3",
+      "audio/ja/kuru1.mp3",
+      "audio/ja/kuru2.mp3",
+    ],
+    texts: {
+      "page-title": "¡Bienvenido a Herta kuru~",
+      "doc-title":
+        "Kuru Kuru~",
+      "page-descriptions":
+        "El sitio web para Herta, el personaje más <del>molesto</del>, lindo y genio de Honkai: Stair Rail ahí afuera",
+      "counter-descriptions": [
+        "La kuru~ ha sido aplastada por",
+        "Herta ha sido kuru~ada por",
+      ],
+      "counter-unit": "veces",
+      "counter-button": ["Aplastar a la kuru~", "Kuru kuru~!"],
+      "access-via-pages":
+        "Estas accediendo mediante GitHub Pages. Para usuarios en china <Mainland> o en otras regiones, haz clic en <a href='https://herta.ft2.ltd/'>para acceder al mirror en Netlify</a>",
+      "access-via-mirror":
+        "¡Felicidades! Estas usando el sitio espejo, en el cual el acceso a este dentro de China <Mainland> y algunas regiones debe ser más rápido. Haz clic aquí a href='https://duiqt.github.io/herta_kuru/'>para visitar el sitio del código fuente de GitHub Pages</a>",
+      "show-credits-text": "Mostrar créditos",
+      "show-options-text": "Opciones",
+      "repository-desc": "Repositorio de github",
+      "options-txt-vo-lang": "Lenguaje de la voz",
+      "options-txt-random_speed": "Velocidad aleatoria",
+      "options-txt-speed": "Velocidad",
+      "options-txt-lang": "Lenguaje de la página",
+      "dialogs-close": "Cerrar",
+      "dialogs-credits-title": "Créditos",
+      "CREDITS:main-dev": "Desarrollador principal",
+      "CREDITS:code-contributor": "Contribuidor al código",
+      "CREDITS:artist": "Artista",
+      "CREDITS:localization": "Contribuidor de localización",
+      "CREDITS:localization:Korean":
+        "Contribuidor de localización para Coreano",
+      "CREDITS:localization:Japanese":
+        "Contribuidor de localización para Japones",
+      "CREDITS:localization:Indonesian":
+        "Contribuidor de localización para Indonesio",
+      "CREDITS:inspiration": "Inspiraciones",
+    },
+    cardImage: "img/card_ja.jpg",
+  },
+}
+
+const progress = [0, 1]
+
+;(() => {
     const $ = mdui.$;
 
     // initialize cachedObjects variable to store cached object URLs
@@ -669,6 +749,7 @@ const progress = [0, 1];
                     <option value="pt">Português-BR</option>
                     <option value="vi">Việt Nam</option>
                     <option value="tr">Türkçe</option>
+                    <option value="es">Español</option>
                 </select>
             </td>
         </tr>
